@@ -1,10 +1,2 @@
-<html>
-<head>
-<title>
-Primo test
-</title>
-</head>
-<body>
-
-</body>
-</htlm>
+questo è un file di testo
+seconda riga
